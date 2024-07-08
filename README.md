@@ -27,7 +27,8 @@ To access the Onshape documents, please follow the links provided below:
 ### Chapter 5: Multi-Part Design, Design Tools and Performance Optimization
 - [C2i B19410 PACKT 006 Multi-Part Design Fundamentals](https://cad.onshape.com/documents/aa0d671967d5af27fe825046/w/9c177b42ad8f215d5f70195a/e/86110d5b9433b7a08f9ad5fc?renderMode=0&tangentEdgeStyle=1&uiState=668c662941d5bd7556d169ee)
 - [C2i B19410 PACKT 007 Additional sketching tools](https://cad.onshape.com/documents/772738f2762c58996d203659/w/be627adb1ad4a20bc07df65c/e/01e8aef4b19d0c865b2db68c?renderMode=0&tangentEdgeStyle=1&uiState=668c6c75bc415a67c7f4e39e)
-
+- [C2i B19410 PACKT 008 Master Sketches](https://cad.onshape.com/documents/37fc762832a6a647790d7a53/w/75716a8353f9d0ca3371c270/e/f70f2598143f1e412b85408c?renderMode=0&tangentEdgeStyle=1&uiState=668c6f35bc415a67c7f4e47a)
+  
 ## Solved Exercises
 This section contains links to Onshape documents with solutions to the exercises presented in the book.
 These documents will show the final result of the exercises, and in some cases, include intermediate steps.
