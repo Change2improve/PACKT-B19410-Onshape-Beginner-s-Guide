@@ -16,7 +16,14 @@ To access the Onshape documents, please follow the links provided below:
 
 ### Chapter 2: Getting Started with Your Onshape Account 
 - [C2i B19410 PACKT 002 - Easter egg hunt](https://cad.onshape.com/documents/78e074cd6c163df729d0d2eb/w/abe1bde1fea1b074bbfcb724/e/95e64f028778d580ba2a194d?renderMode=0&tangentEdgeStyle=1&uiState=668c40a20abe8011f8aa055a)
-- 
+
+## Solved Exercises
+This section contains links to Onshape documents with solutions to the exercises presented in the book.
+These documents will show the final result of the exercises, and in some cases, include intermediate steps.
+
+### Chapter 3: Sketching and Basic Modeling
+- [C2i B19410 PACKT Exercise 01 - Basic Sketching](https://cad.onshape.com/documents/513f55cf350b2bc4cce86706/w/62d785e40a7f3980120094b5/e/dfe9d282e661fd03624f4685?renderMode=0&tangentEdgeStyle=1&uiState=668c514c7ce3c40f92d0068f)
+
 ## Contact
 
 For any questions or additional access requests, please email [emagdalena@c2i.es](mailto:emagdalena@c2i.es) with the subject "Request for Access PACKT B19410 Onshape".
