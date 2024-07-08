@@ -22,6 +22,11 @@ To access the Onshape documents, please follow the links provided below:
 
 ### Chapter 4: Dimensioning and constraining sketch entities
 - [C2i B19410 PACKT 004 Dimensioning and Constraining Sketch Entities](https://cad.onshape.com/documents/c36cff7c52660bc80a01e8c7/w/af18a1e2ad3abc35a16a3df3/e/c431c1b916cb111b1be3d9ab?renderMode=0&tangentEdgeStyle=1&uiState=668c61a641d5bd7556d168af)
+- [C2i B19410 PACKT 005 Editing Sketch Entities](https://cad.onshape.com/documents/84f0330fb1103c1cf233e675/w/5bb87140e59bc5542134d352/e/91b4e2c5dc14270f645ef65b?renderMode=0&tangentEdgeStyle=1&uiState=668c62237ce3c40f92d01cab)
+
+### Chapter 5: Multi-Part Design, Design Tools and Performance Optimization
+- [C2i B19410 PACKT 006 Multi-Part Design Fundamentals](https://cad.onshape.com/documents/aa0d671967d5af27fe825046/w/9c177b42ad8f215d5f70195a/e/86110d5b9433b7a08f9ad5fc?renderMode=0&tangentEdgeStyle=1&uiState=668c662941d5bd7556d169ee)
+- [C2i B19410 PACKT 007 Additional sketching and modelling tools](https://cad.onshape.com/documents/772738f2762c58996d203659/w/be627adb1ad4a20bc07df65c/e/01e8aef4b19d0c865b2db68c?renderMode=0&tangentEdgeStyle=1&uiState=668c69d4567ff86286a398c2)
 
 ## Solved Exercises
 This section contains links to Onshape documents with solutions to the exercises presented in the book.
@@ -32,6 +37,9 @@ These documents will show the final result of the exercises, and in some cases, 
 
 ### Chapter 4: Dimensioning and constraining sketch entities
 - [C2i B19410 PACKT Exercise 02 - Dimensioning and Constraining Sketch](https://cad.onshape.com/documents/f27dfee9fe1c58cbabd4ce88/w/593ed09bed798fa415b71156/e/cf8514c32f888f0b72879c57?renderMode=0&tangentEdgeStyle=1&uiState=668c61cf7973ef31805bfbf5)
+
+### Chapter 5: Multi-Part Design, Design Tools and Performance Optimization
+- [C2i B19410 PACKT Exercise 03 Additional modelling tools](https://cad.onshape.com/documents/ce55a269b7655d198f43323f/w/80542218023627a9d9519e77/e/53001389ea66845d1db4bf1d?renderMode=0&tangentEdgeStyle=1&uiState=668c6c268220df137728663e)
 
 ## Contact
 
